@@ -1,6 +1,6 @@
 # Deckboard-Commands
 
-Shutdown and restart functions for Deckboard
+Terminal Commands for Deckboard
 
 ## Install
 Clone this repository in Users/%USER%/deckboard/extensions directory. 
