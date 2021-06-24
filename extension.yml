@@ -1,6 +1,6 @@
 name: Commands
 package: commands
-version: 1.0.3
+version: 1.0.0
 description: Run terminal commands on your PC through Deckboard
 author: Boris NL
 license: MIT
